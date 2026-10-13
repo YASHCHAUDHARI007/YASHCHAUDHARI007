@@ -1,81 +1,187 @@
 <div align="center">
 
-# Hey, I'm Yash Chaudhari 👋
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                         HERO / ANIMATION                        -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-### Developer • Builder • AI Explorer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,35:312E81,70:6D28D9,100:06B6D4&text=YASH%20CHAUDHARI&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20AI%20Explorer&descAlignY=58&descSize=17&animation=twinkling" alt="Animated gradient banner" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=750&color=67E8F9&center=true&vCenter=true&width=760&lines=Building+ideas+into+real+products;Full-stack+developer+in+the+making;Exploring+AI%2C+automation+%26+great+UX;Learn.+Build.+Ship.+Repeat." alt="Animated typing intro" />
+</a>
+
+<br/>
 
 <a href="https://github.com/YASHCHAUDHARI007">
-  <img src="https://komarev.com/ghpvc/?username=YASHCHAUDHARI007&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YASHCHAUDHARI007&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views" />
 </a>
 <a href="https://github.com/YASHCHAUDHARI007?tab=followers">
-  <img src="https://img.shields.io/github/followers/YASHCHAUDHARI007?style=for-the-badge&color=1f6feb&label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/YASHCHAUDHARI007?style=for-the-badge&logo=github&label=FOLLOWERS&color=0891B2" alt="GitHub followers" />
 </a>
 <a href="https://github.com/YASHCHAUDHARI007?tab=repositories">
-  <img src="https://img.shields.io/github/stars/YASHCHAUDHARI007?style=for-the-badge&color=ffb000&label=STARS" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/stars/YASHCHAUDHARI007?style=for-the-badge&logo=github&label=STARS&color=7C3AED" alt="GitHub stars" />
 </a>
 
-<br />
-<br />
+<br/><br/>
 
-> I like turning ideas into useful products — from AI-powered developer tools to full-stack web applications.
+### ✦ Turning curiosity into code, and code into things that matter. ✦
+
+<a href="#-featured-projects">Projects</a> &nbsp;•&nbsp;
+<a href="#-tech-stack">Tech Stack</a> &nbsp;•&nbsp;
+<a href="#-github-dashboard">GitHub Dashboard</a> &nbsp;•&nbsp;
+<a href="#-connect-with-me">Connect</a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 A little about me
 
-```text
-Building        → web apps, AI tools & practical software
-Interested in   → AI / GenAI, full-stack development, automation & product engineering
-Mindset         → learn → build → ship → improve
-Currently       → sharpening fundamentals and building better real-world projects
-```
-
-I enjoy working across the stack, experimenting with AI, and turning rough ideas into interfaces and working prototypes. I care about making projects understandable, usable, and actually shippable.
-
----
-
-## 🚀 Featured Projects
+I'm **Yash Chaudhari** — a developer who loves exploring ideas, building useful software, and learning by shipping real projects.
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-### 🧠 CodeWhisperr
-AI-powered codebase explanation tool designed to help developers understand unfamiliar code faster.
-
-**Built with:** Next.js • React • Tailwind CSS • Groq / LLaMA
-
-<a href="https://github.com/YASHCHAUDHARI007/codewhisperr">View repository →</a>
+- 🔭 **Building:** full-stack applications, AI-powered tools, and practical prototypes
+- 🤖 **Exploring:** GenAI, developer tools, automation, and product engineering
+- 🧩 **Enjoy:** connecting polished interfaces to useful, reliable systems
+- 🌱 **Growing:** programming fundamentals, architecture, testing, and deployment
+- ⚡ **My loop:** learn → experiment → build → improve → ship
 
 </td>
-<td width="50%">
+<td width="45%" valign="middle" align="center">
 
-### 🤝 Saathi
-A case-coordination platform prototype with a React frontend connected to a Django REST backend.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Animated developer coding at a computer" />
 
-**Built with:** React • Vite • Django REST Framework
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/YASHCHAUDHARI007/saathi">View repository →</a>
+> 💬 **My philosophy:** Don't just make it work. Make it useful, understandable, and delightful to use.
+
+---
+
+## 🚀 Featured projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧠 CodeWhisperr</h3>
+
+An AI-powered codebase explanation tool to help developers understand unfamiliar code faster.
+
+<img src="https://img.shields.io/badge/AI-Code_Intelligence-7C3AED?style=flat-square" alt="AI code intelligence"/>
+<img src="https://img.shields.io/badge/Next.js-React-111827?style=flat-square&logo=next.js" alt="Next.js and React"/>
+
+**Built with:** Next.js · React · Tailwind CSS · Groq / LLaMA
+
+<a href="https://github.com/YASHCHAUDHARI007/codewhisperr">↗ Explore repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🤝 Saathi</h3>
+
+A case-coordination platform prototype with a React frontend and a Django REST backend.
+
+<img src="https://img.shields.io/badge/Frontend-React-0891B2?style=flat-square&logo=react" alt="React frontend"/>
+<img src="https://img.shields.io/badge/Backend-Django-166534?style=flat-square&logo=django" alt="Django backend"/>
+
+**Built with:** React · Vite · Django REST Framework
+
+<a href="https://github.com/YASHCHAUDHARI007/saathi">↗ Explore repository</a>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌱 Kissan Green Hub
-A project focused on building a practical digital experience around agriculture and users in the farming ecosystem.
+<h3>🌱 Kissan Green Hub</h3>
 
-<a href="https://github.com/YASHCHAUDHARI007/Kissan-Green-HUb">View repository →</a>
+A digital agriculture-focused project aiming to make useful services and experiences more accessible across the farming ecosystem.
+
+<img src="https://img.shields.io/badge/Domain-AgriTech-16A34A?style=flat-square&logo=leaflet" alt="AgriTech project"/>
+
+<a href="https://github.com/YASHCHAUDHARI007/Kissan-Green-HUb">↗ Explore repository</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎬 Movies Bot
-A Telegram movie / auto-filter bot project with search, indexing, admin controls, filtering, and deployment workflows.
+<h3>🎬 Movies Bot</h3>
 
-<a href="https://github.com/YASHCHAUDHARI007/movies">View repository →</a>
+A Telegram movie and auto-filter bot project featuring search, indexing, filtering, admin controls, and deployment workflows.
+
+<img src="https://img.shields.io/badge/Platform-Telegram-0284C7?style=flat-square&logo=telegram" alt="Telegram bot"/>
+
+<a href="https://github.com/YASHCHAUDHARI007/movies">↗ Explore repository</a>
+
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/YASHCHAUDHARI007?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+</a>
+
+</div>
+
+---
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp&theme=dark" alt="Python, JavaScript, TypeScript, and C++" />
+
+### Frontend & Backend
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,html,css,tailwind&theme=dark" alt="React, Next.js, Node.js, Django, HTML, CSS, and Tailwind CSS" />
+
+### Data, tools & design
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,git,github,figma,vscode&theme=dark" alt="Firebase, MongoDB, PostgreSQL, Git, GitHub, Figma, and VS Code" />
+
+</div>
+
+---
+
+## 🧪 What gets me excited
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🤖
+**AI & GenAI**
+
+Useful assistants, code intelligence, and thoughtful AI integrations.
+
+</td>
+<td align="center" width="25%">
+
+### 🌐
+**Full-stack**
+
+End-to-end products, real APIs, and solid backend foundations.
+
+</td>
+<td align="center" width="25%">
+
+### ⚙️
+**Developer tools**
+
+Making coding, debugging, and building easier.
+
+</td>
+<td align="center" width="25%">
+
+### 🎨
+**Product UX**
+
+Interfaces that feel clear, polished, and effortless.
 
 </td>
 </tr>
@@ -83,98 +189,75 @@ A Telegram movie / auto-filter bot project with search, indexing, admin controls
 
 ---
 
-## 🛠️ Tech I Work With
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,django,html,css,tailwind,git,github,firebase,mongodb,postgres,figma&perline=8" alt="Tech stack" />
-</p>
-
----
-
-## 🧩 What I Like Building
-
-| Area | What I enjoy |
-|---|---|
-| 🤖 AI & GenAI | AI-powered tools, code intelligence, automation and useful assistants |
-| 🌐 Full-Stack | Frontend experiences connected to real APIs and backend services |
-| ⚙️ Developer Tools | Products that make coding, debugging or understanding software easier |
-| 🎨 Product UI | Clean interfaces, strong hierarchy and practical UX |
-| 🧪 Experimentation | Fast prototypes that can evolve into real products |
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YASHCHAUDHARI007&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHCHAUDHARI007&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YASHCHAUDHARI007&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## 📈 Contribution Journey
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHCHAUDHARI007&hide_border=true&area=true" alt="GitHub contribution graph" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-<details open>
-<summary><b>What I'm working toward</b></summary>
-
-<br />
-
-- Building stronger fundamentals in programming and problem solving
-- Creating polished, end-to-end full-stack projects
-- Exploring practical GenAI integrations instead of AI for AI's sake
-- Improving architecture, testing, security and deployment practices
-- Turning prototypes into projects that are genuinely useful
-
-</details>
-
-<details>
-<summary><b>How I build</b></summary>
-
-<br />
-
-**01 — Explore** → understand the problem and define the simplest useful version  
-**02 — Build** → create the core flow quickly  
-**03 — Test** → find rough edges and failure cases  
-**04 — Polish** → improve UX, architecture and reliability  
-**05 — Ship** → document it, deploy it, learn from it
-
-</details>
-
----
-
-## 🤝 Let's Connect
+## 📊 GitHub dashboard
 
 <div align="center">
 
 <a href="https://github.com/YASHCHAUDHARI007">
-  <img src="https://img.shields.io/badge/GitHub-YASHCHAUDHARI007-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YASHCHAUDHARI007&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub statistics" />
 </a>
-<a href="mailto:yashchaudhari478@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://github.com/YASHCHAUDHARI007">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHCHAUDHARI007&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="Most used programming languages" />
 </a>
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YASHCHAUDHARI007&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=67E8F9" alt="GitHub contribution streak" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YASHCHAUDHARI007&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=67E8F9&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
+## 🎯 What I'm focusing on
+
 <div align="center">
 
-### 💡 Build useful things. Keep learning. Ship often.
+| **01 · LEARN** | **02 · BUILD** | **03 · REFINE** | **04 · SHIP** |
+|:---:|:---:|:---:|:---:|
+| Strengthen fundamentals | Create real projects | Improve UX & reliability | Share, deploy, iterate |
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</div>
+
+- Building stronger programming and problem-solving skills.
+- Making end-to-end projects that solve real problems.
+- Exploring practical GenAI integrations with clear user value.
+- Improving architecture, testing, security, and deployment habits.
+
+<details>
+<summary><b>🧭 My build process</b></summary>
+<br/>
+
+1. **Explore** — understand the problem and define the smallest useful version.
+2. **Build** — get the core experience working.
+3. **Test** — find edge cases, rough spots, and failure modes.
+4. **Polish** — improve design, accessibility, and reliability.
+5. **Ship** — document it, deploy it, and learn from feedback.
+
+</details>
+
+---
+
+## 🤝 Connect with me
+
+<div align="center">
+
+<a href="https://github.com/YASHCHAUDHARI007">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-18181B?style=for-the-badge&logo=github" alt="Follow on GitHub" />
+</a>
+<a href="mailto:yashchaudhari478@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
+</a>
+
+<br/><br/>
+
+### ✨ Build with curiosity. Create with intention. Keep shipping.
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
+
+<sub>Thanks for stopping by — have a great day! 👋</sub>
 
 </div>
