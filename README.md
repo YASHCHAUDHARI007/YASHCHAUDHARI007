@@ -107,18 +107,7 @@ A case-coordination platform prototype with a React frontend and a Django REST b
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-<h3>🌱 Kissan Green Hub</h3>
-
-A digital agriculture-focused project aiming to make useful services and experiences more accessible across the farming ecosystem.
-
-<img src="https://img.shields.io/badge/Domain-AgriTech-16A34A?style=flat-square&logo=leaflet" alt="AgriTech project"/>
-
-<a href="https://github.com/YASHCHAUDHARI007/Kissan-Green-HUb">↗ Explore repository</a>
-
-</td>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 <h3>🎬 Movies Bot</h3>
 
