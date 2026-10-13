@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                         HERO / ANIMATION                        -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,35:312E81,70:6D28D9,100:06B6D4&text=YASH%20CHAUDHARI&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20AI%20Explorer&descAlignY=58&descSize=17&animation=twinkling" alt="Animated gradient banner" />
+<!-- Custom animated SVG hero: neon orbit, ambient glow, and animated particles -->
+<img width="100%" src="https://raw.githubusercontent.com/YASHCHAUDHARI007/YASHCHAUDHARI007/main/assets/profile-hero.svg" alt="Custom animated neon developer banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=750&color=67E8F9&center=true&vCenter=true&width=760&lines=Building+ideas+into+real+products;Full-stack+developer+in+the+making;Exploring+AI%2C+automation+%26+great+UX;Learn.+Build.+Ship.+Repeat." alt="Animated typing intro" />
@@ -25,6 +22,8 @@
 <br/><br/>
 
 ### ✦ Turning curiosity into code, and code into things that matter. ✦
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2400&pause=700&color=A78BFA&center=true&vCenter=true&width=620&lines=%24+build+--with+curiosity;%24+ship+--with+purpose;%24+repeat+--until+it%27s+great" alt="Animated developer command line" />
 
 <a href="#-featured-projects">Projects</a> &nbsp;•&nbsp;
 <a href="#-tech-stack">Tech Stack</a> &nbsp;•&nbsp;
