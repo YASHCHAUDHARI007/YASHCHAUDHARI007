@@ -32,7 +32,9 @@
 
 </div>
 
----
+
+<div align="center"><img width="100%" src="https://raw.githubusercontent.com/YASHCHAUDHARI007/YASHCHAUDHARI007/main/assets/neon-divider.svg" alt="Animated neon section divider" /></div>
+
 
 ## 👋 A little about me
 
@@ -59,7 +61,9 @@ I'm **Yash Chaudhari** — a developer who loves exploring ideas, building usefu
 
 > 💬 **My philosophy:** Don't just make it work. Make it useful, understandable, and delightful to use.
 
----
+
+<div align="center"><img width="100%" src="https://raw.githubusercontent.com/YASHCHAUDHARI007/YASHCHAUDHARI007/main/assets/neon-divider.svg" alt="Animated neon section divider" /></div>
+
 
 ## 🚀 Featured projects
 
@@ -128,7 +132,9 @@ A Telegram movie and auto-filter bot project featuring search, indexing, filteri
 
 </div>
 
----
+
+<div align="center"><img width="100%" src="https://raw.githubusercontent.com/YASHCHAUDHARI007/YASHCHAUDHARI007/main/assets/neon-divider.svg" alt="Animated neon section divider" /></div>
+
 
 ## 🛠️ Tech stack
 
@@ -145,7 +151,9 @@ A Telegram movie and auto-filter bot project featuring search, indexing, filteri
 
 </div>
 
----
+
+<div align="center"><img width="100%" src="https://raw.githubusercontent.com/YASHCHAUDHARI007/YASHCHAUDHARI007/main/assets/neon-divider.svg" alt="Animated neon section divider" /></div>
+
 
 ## 🧪 What gets me excited
 
@@ -186,11 +194,16 @@ Interfaces that feel clear, polished, and effortless.
 </tr>
 </table>
 
----
+
+<div align="center"><img width="100%" src="https://raw.githubusercontent.com/YASHCHAUDHARI007/YASHCHAUDHARI007/main/assets/neon-divider.svg" alt="Animated neon section divider" /></div>
+
 
 ## 📊 GitHub dashboard
 
 <div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YASHCHAUDHARI007&theme=discord&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" /></a>
+
 
 <a href="https://github.com/YASHCHAUDHARI007">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=YASHCHAUDHARI007&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub statistics" />
@@ -209,11 +222,16 @@ Interfaces that feel clear, polished, and effortless.
 
 </div>
 
----
+
+<div align="center"><img width="100%" src="https://raw.githubusercontent.com/YASHCHAUDHARI007/YASHCHAUDHARI007/main/assets/neon-divider.svg" alt="Animated neon section divider" /></div>
+
 
 ## 🎯 What I'm focusing on
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=800&color=67E8F9&center=true&vCenter=true&width=700&lines=Currently+in+build+mode...;Turning+ideas+into+experiences;One+commit+at+a+time." alt="Animated build status" />
+
 
 | **01 · LEARN** | **02 · BUILD** | **03 · REFINE** | **04 · SHIP** |
 |:---:|:---:|:---:|:---:|
@@ -238,7 +256,9 @@ Interfaces that feel clear, polished, and effortless.
 
 </details>
 
----
+
+<div align="center"><img width="100%" src="https://raw.githubusercontent.com/YASHCHAUDHARI007/YASHCHAUDHARI007/main/assets/neon-divider.svg" alt="Animated neon section divider" /></div>
+
 
 ## 🤝 Connect with me
 
