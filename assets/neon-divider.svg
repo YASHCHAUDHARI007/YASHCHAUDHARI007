@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56">
+<defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE" stop-opacity="0"/><stop offset=".25" stop-color="#22D3EE"/><stop offset=".55" stop-color="#A78BFA"/><stop offset=".82" stop-color="#F0ABFC"/><stop offset="1" stop-color="#F0ABFC" stop-opacity="0"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<path d="M0 28 C150 4 250 52 400 28 S650 4 800 28 S1050 52 1200 28" fill="none" stroke="url(#g)" stroke-width="7" opacity=".28" filter="url(#glow)"/>
+<path d="M0 28 C150 4 250 52 400 28 S650 4 800 28 S1050 52 1200 28" fill="none" stroke="url(#g)" stroke-width="1.8" stroke-dasharray="12 9">
+ <animate attributeName="stroke-dashoffset" from="0" to="-168" dur="7s" repeatCount="indefinite"/>
+</path>
+<circle cx="600" cy="18" r="3" fill="#67E8F9"><animate attributeName="cy" values="18;38;18" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="600" cy="18" r="8" fill="#A78BFA" opacity=".2"><animate attributeName="r" values="4;11;4" dur="3s" repeatCount="indefinite"/></circle>
+</svg>
