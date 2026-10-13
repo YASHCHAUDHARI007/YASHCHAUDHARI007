@@ -1,37 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Yash Chaudhari — Creative Developer</title>
-<desc id="desc">An animated midnight cyberpunk-inspired developer banner with orbiting neon rings, a glowing central monogram, and moving particles.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Yash Chaudhari — Builder of digital things</title>
+<desc id="desc">A cinematic animated portfolio banner with an elegant midnight gradient, moving aurora ribbons, a perspective grid, glowing orbital geometry, and a terminal cursor.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070A16"/><stop offset=".52" stop-color="#171044"/><stop offset="1" stop-color="#061C2B"/></linearGradient>
-  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5EE7FF"/><stop offset=".48" stop-color="#A78BFA"/><stop offset="1" stop-color="#F0ABFC"/></linearGradient>
-  <radialGradient id="glow"><stop stop-color="#7C3AED" stop-opacity=".38"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
-  <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
-  <filter id="shine"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#94A3B8" stroke-opacity=".09" stroke-width="1"/></pattern>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B16"/><stop offset=".48" stop-color="#11142B"/><stop offset="1" stop-color="#071D28"/></linearGradient>
+ <linearGradient id="aurora" x1="0" y1="0" x2="1" y2=".4"><stop stop-color="#22D3EE" stop-opacity="0"/><stop offset=".35" stop-color="#22D3EE" stop-opacity=".65"/><stop offset=".65" stop-color="#8B5CF6" stop-opacity=".72"/><stop offset="1" stop-color="#F0ABFC" stop-opacity="0"/></linearGradient>
+ <linearGradient id="text" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FFFFFF"/><stop offset=".65" stop-color="#CFFAFE"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#7C3AED" stop-opacity=".32"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#A5B4FC" stroke-opacity=".08"/></pattern>
+ <filter id="blur"><feGaussianBlur stdDeviation="20"/></filter>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="clip"><rect width="1200" height="420" rx="24"/></clipPath>
 </defs>
-<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-<rect width="1200" height="360" rx="28" fill="url(#grid)"/>
-<ellipse cx="950" cy="165" rx="260" ry="210" fill="url(#glow)" filter="url(#blur)"/>
-<g fill="none" stroke="url(#neon)" stroke-opacity=".75">
-  <ellipse cx="955" cy="175" rx="190" ry="70" stroke-width="1.5" transform="rotate(-28 955 175)"><animateTransform attributeName="transform" type="rotate" from="-28 955 175" to="332 955 175" dur="32s" repeatCount="indefinite"/></ellipse>
-  <ellipse cx="955" cy="175" rx="150" ry="105" stroke-width="1.2" transform="rotate(55 955 175)"><animateTransform attributeName="transform" type="rotate" from="55 955 175" to="-305 955 175" dur="26s" repeatCount="indefinite"/></ellipse>
-  <ellipse cx="955" cy="175" rx="210" ry="120" stroke-width="1" stroke-dasharray="4 12" transform="rotate(10 955 175)"><animateTransform attributeName="transform" type="rotate" from="10 955 175" to="370 955 175" dur="42s" repeatCount="indefinite"/></ellipse>
+<g clip-path="url(#clip)">
+ <rect width="1200" height="420" fill="url(#bg)"/>
+ <rect width="1200" height="420" fill="url(#grid)"/>
+ <ellipse cx="930" cy="195" rx="320" ry="260" fill="url(#halo)" filter="url(#blur)"/>
+ <path d="M-80 310 C190 100 300 440 560 230 S930 70 1290 170" fill="none" stroke="url(#aurora)" stroke-width="80" opacity=".16" filter="url(#blur)"><animate attributeName="d" dur="14s" repeatCount="indefinite" values="M-80 310 C190 100 300 440 560 230 S930 70 1290 170;M-80 210 C170 390 360 80 590 250 S980 350 1290 90;M-80 310 C190 100 300 440 560 230 S930 70 1290 170"/></path>
+ <path d="M-40 335 C180 255 260 370 460 280" fill="none" stroke="url(#aurora)" stroke-width="1.5" opacity=".8"/>
+ <g opacity=".7" stroke="#67E8F9" fill="none">
+  <path d="M710 0V420" stroke-opacity=".16" stroke-dasharray="3 9"/>
+  <path d="M730 320L1170 320" stroke-opacity=".2"/>
+  <path d="M730 335L1110 335" stroke-opacity=".12"/>
+ </g>
+ <!-- Orbiting geometry -->
+ <g transform="translate(940 190)" fill="none" stroke="url(#aurora)" filter="url(#glow)">
+  <ellipse rx="178" ry="66" stroke-width="1.6" transform="rotate(-28)"><animateTransform attributeName="transform" type="rotate" from="-28" to="332" dur="38s" repeatCount="indefinite"/></ellipse>
+  <ellipse rx="140" ry="104" stroke-width="1.2" transform="rotate(58)"><animateTransform attributeName="transform" type="rotate" from="58" to="-302" dur="31s" repeatCount="indefinite"/></ellipse>
+  <ellipse rx="200" ry="128" stroke-width="1" stroke-dasharray="2 11" transform="rotate(12)"><animateTransform attributeName="transform" type="rotate" from="12" to="372" dur="48s" repeatCount="indefinite"/></ellipse>
+ </g>
+ <circle cx="940" cy="190" r="75" fill="#0A1020" stroke="#67E8F9" stroke-opacity=".65" stroke-width="1.5"/>
+ <circle cx="940" cy="190" r="63" fill="none" stroke="#A78BFA" stroke-opacity=".42" stroke-dasharray="2 6"><animate attributeName="r" values="61;67;61" dur="5s" repeatCount="indefinite"/></circle>
+ <text x="940" y="207" text-anchor="middle" font-family="monospace" font-size="49" font-weight="700" fill="url(#text)">YC</text>
+ <circle cx="785" cy="135" r="3.5" fill="#67E8F9" filter="url(#glow)"><animate attributeName="opacity" values=".15;1;.15" dur="2.2s" repeatCount="indefinite"/></circle>
+ <circle cx="1080" cy="265" r="3" fill="#C4B5FD"><animate attributeName="opacity" values="1;.2;1" dur="3.4s" repeatCount="indefinite"/></circle>
+ <circle cx="1090" cy="110" r="2.5" fill="#67E8F9"><animate attributeName="opacity" values=".2;1;.2" dur="1.9s" repeatCount="indefinite"/></circle>
+ <g font-family="Arial,Helvetica,sans-serif">
+  <text x="76" y="86" font-size="13" fill="#67E8F9" letter-spacing="5">INDEPENDENT DEVELOPER  /  INDIA</text>
+  <text x="70" y="160" font-size="57" font-weight="800" letter-spacing="-1.8" fill="url(#text)">YASH CHAUDHARI</text>
+  <rect x="76" y="183" width="118" height="3" rx="1.5" fill="url(#aurora)"><animate attributeName="width" values="54;145;90;118" dur="6s" repeatCount="indefinite"/></rect>
+  <text x="76" y="224" font-size="21" fill="#CBD5E1">I build useful things for the real world.</text>
+  <text x="76" y="268" font-family="monospace" font-size="13" fill="#A5B4FC" letter-spacing="1.5">AI SYSTEMS  ·  FULL STACK  ·  CREATIVE ENGINEERING</text>
+  <text x="76" y="332" font-family="monospace" font-size="13" fill="#67E8F9">$</text>
+  <text x="96" y="332" font-family="monospace" font-size="13" fill="#E2E8F0">idea → prototype → product</text>
+  <rect x="300" y="319" width="8" height="17" fill="#67E8F9"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+ </g>
+ <path d="M0 390 C240 360 370 420 610 390 S990 360 1200 391" fill="none" stroke="url(#aurora)" stroke-width="1.2" opacity=".6"/>
+ <text x="76" y="398" font-family="monospace" font-size="10" fill="#94A3B8" letter-spacing="2">CURIOUS BY DEFAULT. BUILDING BY CHOICE.</text>
 </g>
-<circle cx="955" cy="175" r="82" fill="#0A1025" stroke="url(#neon)" stroke-width="2" filter="url(#shine)"/>
-<text x="955" y="193" text-anchor="middle" font-family="monospace" font-size="60" font-weight="700" fill="url(#neon)">YC</text>
-<g fill="#67E8F9">
-  <circle cx="790" cy="130" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
-  <circle cx="1105" cy="115" r="2.5"><animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/></circle>
-  <circle cx="1060" cy="260" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle>
-  <circle cx="850" cy="260" r="2"><animate attributeName="opacity" values="1;.1;1" dur="2.8s" repeatCount="indefinite"/></circle>
-</g>
-<g font-family="Arial,Helvetica,sans-serif">
-  <text x="72" y="105" fill="#A5F3FC" font-size="14" letter-spacing="5">PORTFOLIO / 2026</text>
-  <text x="68" y="169" fill="#FFFFFF" font-size="54" font-weight="800" letter-spacing="-1">YASH CHAUDHARI</text>
-  <rect x="72" y="192" width="92" height="4" rx="2" fill="url(#neon)"><animate attributeName="width" values="38;120;70;92" dur="5s" repeatCount="indefinite"/></rect>
-  <text x="72" y="235" fill="#CBD5E1" font-size="20">I turn curious ideas into useful digital experiences.</text>
-  <text x="72" y="278" fill="#67E8F9" font-family="monospace" font-size="13" letter-spacing="2">AI  ·  FULL STACK  ·  PRODUCT ENGINEERING</text>
-</g>
-<path d="M0 324 Q300 285 600 326 T1200 315" fill="none" stroke="url(#neon)" stroke-opacity=".4"/>
-<text x="72" y="333" fill="#94A3B8" font-family="monospace" font-size="11" letter-spacing="2">LEARN / BUILD / SHIP / REPEAT</text>
 </svg>
