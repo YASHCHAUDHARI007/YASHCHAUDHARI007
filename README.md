@@ -33,7 +33,7 @@
 </div>
 
 
-<div align="center"><img width="100%" src="https://raw.githubusercontent.com/YASHCHAUDHARI007/YASHCHAUDHARI007/main/assets/neon-divider.svg" alt="Animated neon section divider" /></div>
+---
 
 
 ## 👋 A little about me
@@ -62,10 +62,16 @@ I'm **Yash Chaudhari** — a developer who loves exploring ideas, building usefu
 > 💬 **My philosophy:** Don't just make it work. Make it useful, understandable, and delightful to use.
 
 
-<div align="center"><img width="100%" src="https://raw.githubusercontent.com/YASHCHAUDHARI007/YASHCHAUDHARI007/main/assets/neon-divider.svg" alt="Animated neon section divider" /></div>
+---
 
 
 ## 🚀 Featured projects
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/YASHCHAUDHARI007/YASHCHAUDHARI007/main/assets/project-showcase.svg" alt="Animated showcase of selected projects" />
+
+</div>
 
 <div align="center">
 
@@ -133,9 +139,6 @@ A Telegram movie and auto-filter bot project featuring search, indexing, filteri
 </div>
 
 
-<div align="center"><img width="100%" src="https://raw.githubusercontent.com/YASHCHAUDHARI007/YASHCHAUDHARI007/main/assets/neon-divider.svg" alt="Animated neon section divider" /></div>
-
-
 ## 🛠️ Tech stack
 
 <div align="center">
@@ -150,9 +153,6 @@ A Telegram movie and auto-filter bot project featuring search, indexing, filteri
 <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,git,github,figma,vscode&theme=dark" alt="Firebase, MongoDB, PostgreSQL, Git, GitHub, Figma, and VS Code" />
 
 </div>
-
-
-<div align="center"><img width="100%" src="https://raw.githubusercontent.com/YASHCHAUDHARI007/YASHCHAUDHARI007/main/assets/neon-divider.svg" alt="Animated neon section divider" /></div>
 
 
 ## 🧪 What gets me excited
@@ -195,7 +195,7 @@ Interfaces that feel clear, polished, and effortless.
 </table>
 
 
-<div align="center"><img width="100%" src="https://raw.githubusercontent.com/YASHCHAUDHARI007/YASHCHAUDHARI007/main/assets/neon-divider.svg" alt="Animated neon section divider" /></div>
+---
 
 
 ## 📊 GitHub dashboard
@@ -223,7 +223,7 @@ Interfaces that feel clear, polished, and effortless.
 </div>
 
 
-<div align="center"><img width="100%" src="https://raw.githubusercontent.com/YASHCHAUDHARI007/YASHCHAUDHARI007/main/assets/neon-divider.svg" alt="Animated neon section divider" /></div>
+---
 
 
 ## 🎯 What I'm focusing on
@@ -255,9 +255,6 @@ Interfaces that feel clear, polished, and effortless.
 5. **Ship** — document it, deploy it, and learn from feedback.
 
 </details>
-
-
-<div align="center"><img width="100%" src="https://raw.githubusercontent.com/YASHCHAUDHARI007/YASHCHAUDHARI007/main/assets/neon-divider.svg" alt="Animated neon section divider" /></div>
 
 
 ## 🤝 Connect with me
