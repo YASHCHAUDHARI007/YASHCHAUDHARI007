@@ -1,51 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
 <title id="title">Selected projects by Yash Chaudhari</title>
-<desc id="desc">Four refined dark glass-style project panels for AI developer tools, community coordination, AgriTech, and a Telegram bot, with subtle animated neon accents.</desc>
+<desc id="desc">Three dark glass-style project panels for AI code intelligence, community coordination, and Telegram automation, with subtle animated neon accents.</desc>
 <defs>
  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080D18"/><stop offset="1" stop-color="#12152C"/></linearGradient>
- <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#6366F1"/></linearGradient>
- <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#F0ABFC"/></linearGradient>
- <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#86EFAC"/><stop offset="1" stop-color="#14B8A6"/></linearGradient>
- <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7DD3FC"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+ <linearGradient id="cyan"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#6366F1"/></linearGradient>
+ <linearGradient id="violet"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#F0ABFC"/></linearGradient>
+ <linearGradient id="blue"><stop stop-color="#7DD3FC"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
  <filter id="glow"><feGaussianBlur stdDeviation="5"/></filter>
 </defs>
 <rect width="1200" height="250" rx="22" fill="url(#bg)"/>
-<g opacity=".35" stroke="#64748B" stroke-width=".7"><path d="M0 50H1200M0 100H1200M0 150H1200M0 200H1200"/><path d="M50 0V250M100 0V250M150 0V250M200 0V250M250 0V250M300 0V250M350 0V250M400 0V250M450 0V250M500 0V250M550 0V250M600 0V250M650 0V250M700 0V250M750 0V250M800 0V250M850 0V250M900 0V250M950 0V250M1000 0V250M1050 0V250M1100 0V250M1150 0V250"/></g>
+<g opacity=".28" stroke="#64748B" stroke-width=".7"><path d="M0 50H1200M0 100H1200M0 150H1200M0 200H1200"/><path d="M50 0V250M100 0V250M150 0V250M200 0V250M250 0V250M300 0V250M350 0V250M400 0V250M450 0V250M500 0V250M550 0V250M600 0V250M650 0V250M700 0V250M750 0V250M800 0V250M850 0V250M900 0V250M950 0V250M1000 0V250M1050 0V250M1100 0V250M1150 0V250"/></g>
 <g>
- <rect x="24" y="24" width="276" height="202" rx="15" fill="#0D1425" stroke="#22D3EE" stroke-opacity=".5"/>
- <rect x="24" y="24" width="276" height="202" rx="15" fill="#22D3EE" opacity=".035"/>
- <circle cx="162" cy="84" r="30" fill="#22D3EE" opacity=".15" filter="url(#glow)"/>
- <circle cx="162" cy="84" r="25" fill="none" stroke="url(#cyan)" stroke-width="1.5"/>
- <path d="M149 75L141 84L149 93M175 75L183 84L175 93M168 69L156 99" fill="none" stroke="#A5F3FC" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
- <text x="162" y="139" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#F8FAFC">CodeWhisperr</text>
- <text x="162" y="162" text-anchor="middle" font-family="monospace" font-size="11" fill="#67E8F9">AI / CODE INTELLIGENCE</text>
- <path d="M50 191H274" stroke="#22D3EE" stroke-opacity=".5"><animate attributeName="stroke-opacity" values=".15;.8;.15" dur="3s" repeatCount="indefinite"/></path>
+ <rect x="35" y="24" width="350" height="202" rx="15" fill="#0D1425" stroke="#22D3EE" stroke-opacity=".55"/>
+ <circle cx="210" cy="82" r="30" fill="#22D3EE" opacity=".15" filter="url(#glow)"/><circle cx="210" cy="82" r="25" fill="none" stroke="url(#cyan)" stroke-width="1.5"/>
+ <path d="M197 73L189 82L197 91M223 73L231 82L223 91M216 67L204 97" fill="none" stroke="#A5F3FC" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="210" y="139" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#F8FAFC">CodeWhisperr</text><text x="210" y="162" text-anchor="middle" font-family="monospace" font-size="11" fill="#67E8F9">AI / CODE INTELLIGENCE</text>
+ <path d="M65 191H355" stroke="#22D3EE" stroke-opacity=".5"><animate attributeName="stroke-opacity" values=".15;.8;.15" dur="3s" repeatCount="indefinite"/></path>
 </g>
 <g>
- <rect x="324" y="24" width="276" height="202" rx="15" fill="#0D1425" stroke="#A78BFA" stroke-opacity=".5"/>
- <rect x="324" y="24" width="276" height="202" rx="15" fill="#A78BFA" opacity=".035"/>
- <circle cx="462" cy="84" r="30" fill="#A78BFA" opacity=".15" filter="url(#glow)"/>
- <circle cx="450" cy="78" r="10" fill="none" stroke="#C4B5FD" stroke-width="2"/><circle cx="474" cy="78" r="10" fill="none" stroke="#C4B5FD" stroke-width="2"/><path d="M433 101Q450 84 467 101M457 101Q474 84 491 101" fill="none" stroke="#C4B5FD" stroke-width="2"/>
- <text x="462" y="139" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#F8FAFC">Saathi</text>
- <text x="462" y="162" text-anchor="middle" font-family="monospace" font-size="11" fill="#C4B5FD">COMMUNITY / COORDINATION</text>
- <path d="M350 191H574" stroke="#A78BFA" stroke-opacity=".5"><animate attributeName="stroke-opacity" values=".15;.8;.15" dur="3.4s" repeatCount="indefinite"/></path>
+ <rect x="425" y="24" width="350" height="202" rx="15" fill="#0D1425" stroke="#A78BFA" stroke-opacity=".55"/>
+ <circle cx="600" cy="82" r="30" fill="#A78BFA" opacity=".15" filter="url(#glow)"/><circle cx="588" cy="76" r="10" fill="none" stroke="#C4B5FD" stroke-width="2"/><circle cx="612" cy="76" r="10" fill="none" stroke="#C4B5FD" stroke-width="2"/><path d="M571 99Q588 82 605 99M595 99Q612 82 629 99" fill="none" stroke="#C4B5FD" stroke-width="2"/>
+ <text x="600" y="139" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#F8FAFC">Saathi</text><text x="600" y="162" text-anchor="middle" font-family="monospace" font-size="11" fill="#C4B5FD">COMMUNITY / COORDINATION</text>
+ <path d="M455 191H745" stroke="#A78BFA" stroke-opacity=".5"><animate attributeName="stroke-opacity" values=".15;.8;.15" dur="3.4s" repeatCount="indefinite"/></path>
 </g>
 <g>
- <rect x="624" y="24" width="276" height="202" rx="15" fill="#0D1425" stroke="#34D399" stroke-opacity=".5"/>
- <rect x="624" y="24" width="276" height="202" rx="15" fill="#34D399" opacity=".035"/>
- <circle cx="762" cy="84" r="30" fill="#34D399" opacity=".15" filter="url(#glow)"/>
- <path d="M762 60C748 78 744 87 746 96C748 109 760 113 770 106C785 96 776 80 762 60Z" fill="none" stroke="url(#green)" stroke-width="2.5"/><path d="M762 103Q762 88 773 80" fill="none" stroke="#86EFAC" stroke-width="2"/>
- <text x="762" y="139" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#F8FAFC">Kissan Green Hub</text>
- <text x="762" y="162" text-anchor="middle" font-family="monospace" font-size="11" fill="#86EFAC">AGRITECH / REAL-WORLD IMPACT</text>
- <path d="M650 191H874" stroke="#34D399" stroke-opacity=".5"><animate attributeName="stroke-opacity" values=".15;.8;.15" dur="2.8s" repeatCount="indefinite"/></path>
-</g>
-<g>
- <rect x="924" y="24" width="252" height="202" rx="15" fill="#0D1425" stroke="#60A5FA" stroke-opacity=".5"/>
- <rect x="924" y="24" width="252" height="202" rx="15" fill="#60A5FA" opacity=".035"/>
- <circle cx="1050" cy="84" r="30" fill="#60A5FA" opacity=".15" filter="url(#glow)"/>
- <rect x="1032" y="64" width="36" height="39" rx="8" fill="none" stroke="url(#blue)" stroke-width="2.4"/><path d="M1039 75H1061M1039 83H1057M1039 91H1054" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round"/>
- <text x="1050" y="139" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#F8FAFC">Movies Bot</text>
- <text x="1050" y="162" text-anchor="middle" font-family="monospace" font-size="11" fill="#7DD3FC">TELEGRAM / AUTOMATION</text>
- <path d="M950 191H1150" stroke="#60A5FA" stroke-opacity=".5"><animate attributeName="stroke-opacity" values=".15;.8;.15" dur="3.2s" repeatCount="indefinite"/></path>
+ <rect x="815" y="24" width="350" height="202" rx="15" fill="#0D1425" stroke="#60A5FA" stroke-opacity=".55"/>
+ <circle cx="990" cy="82" r="30" fill="#60A5FA" opacity=".15" filter="url(#glow)"/><rect x="972" y="62" width="36" height="39" rx="8" fill="none" stroke="url(#blue)" stroke-width="2.4"/><path d="M979 73H1001M979 81H997M979 89H994" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round"/>
+ <text x="990" y="139" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#F8FAFC">Movies Bot</text><text x="990" y="162" text-anchor="middle" font-family="monospace" font-size="11" fill="#7DD3FC">TELEGRAM / AUTOMATION</text>
+ <path d="M845 191H1135" stroke="#60A5FA" stroke-opacity=".5"><animate attributeName="stroke-opacity" values=".15;.8;.15" dur="3.2s" repeatCount="indefinite"/></path>
 </g>
 </svg>
